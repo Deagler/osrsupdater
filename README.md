@@ -1,7 +1,9 @@
 # osrsupdater
 Tool that uses Java Bytecode Analysis on an OSRS Jar File
 
-Basically a base for an OSRS Updater, I didn't get far in it because I stopped playing Runescape.
+A base for an OSRS Updater.
+
+Allows for injection or reflection to be used for modification of an OSRS client.
 
 IIRC, It correctly identifies the following classes
 - Client
